@@ -1,0 +1,8 @@
+/Applications/current/farm-bundle-size-analyzer/target/debug/deps/libswc_html_utils-3a953c823cbcee24.rmeta: /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_html_utils-0.19.0/src/lib.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_html_utils-0.19.0/src/../data/entities.json /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_html_utils-0.19.0/src/../data/html_elements_and_attributes.json /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_html_utils-0.19.0/src/../data/svg_elements_and_attributes.json
+
+/Applications/current/farm-bundle-size-analyzer/target/debug/deps/swc_html_utils-3a953c823cbcee24.d: /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_html_utils-0.19.0/src/lib.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_html_utils-0.19.0/src/../data/entities.json /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_html_utils-0.19.0/src/../data/html_elements_and_attributes.json /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_html_utils-0.19.0/src/../data/svg_elements_and_attributes.json
+
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_html_utils-0.19.0/src/lib.rs:
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_html_utils-0.19.0/src/../data/entities.json:
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_html_utils-0.19.0/src/../data/html_elements_and_attributes.json:
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_html_utils-0.19.0/src/../data/svg_elements_and_attributes.json:

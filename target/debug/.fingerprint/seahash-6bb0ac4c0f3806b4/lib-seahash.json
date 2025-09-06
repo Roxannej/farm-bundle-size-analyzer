@@ -1,0 +1,1 @@
+{"rustc":14241486356046988409,"features":"[\"default\"]","declared_features":"[\"default\", \"use_std\"]","target":8237086257826412286,"profile":5347358027863023418,"path":8743971029343995744,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/seahash-6bb0ac4c0f3806b4/dep-lib-seahash","checksum":false}}],"rustflags":[],"config":2069994364910194474,"compile_kind":0}

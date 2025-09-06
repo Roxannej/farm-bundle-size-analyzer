@@ -1,0 +1,11 @@
+/Applications/current/farm-bundle-size-analyzer/target/release/deps/getrandom-fc8e999d2f82eaf3.d: /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.12/src/lib.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.12/src/error.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.12/src/util.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.12/src/util_libc.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.12/src/macos.rs
+
+/Applications/current/farm-bundle-size-analyzer/target/release/deps/libgetrandom-fc8e999d2f82eaf3.rlib: /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.12/src/lib.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.12/src/error.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.12/src/util.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.12/src/util_libc.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.12/src/macos.rs
+
+/Applications/current/farm-bundle-size-analyzer/target/release/deps/libgetrandom-fc8e999d2f82eaf3.rmeta: /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.12/src/lib.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.12/src/error.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.12/src/util.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.12/src/util_libc.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.12/src/macos.rs
+
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.12/src/lib.rs:
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.12/src/error.rs:
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.12/src/util.rs:
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.12/src/util_libc.rs:
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.12/src/macos.rs:
