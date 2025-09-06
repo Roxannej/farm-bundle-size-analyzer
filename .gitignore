@@ -42,6 +42,25 @@ coverage/
 node_modules/
 jspm_packages/
 
+# Package manager lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
+
+# Package manager cache and config
+.npm
+.yarn
+.pnp
+.yarnrc.yml
+.pnpmfile.cjs
+
+# Test project dependencies
+test-farm-project/node_modules/
+test-farm-project/package-lock.json
+test-farm-project/yarn.lock
+test-farm-project/pnpm-lock.yaml
+
 # Optional npm cache directory
 .npm
 
@@ -123,7 +142,6 @@ npm-package/win32-x64-msvc/
 
 # Test project artifacts
 test-farm-project/dist/
-test-farm-project/node_modules/
 test-farm-project/.farm/
 
 # Documentation build
