@@ -1,0 +1,28 @@
+{
+  "name": "farm-bundle-size-analyzer",
+  "version": "0.1.0",
+  "description": "A Farm.js plugin to analyze bundle sizes in terminal",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "lib/"
+  ],
+  "scripts": {
+    "postinstall": "node postinstall.js"
+  },
+  "keywords": [
+    "farm",
+    "bundle",
+    "analyzer",
+    "size"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "peerDependencies": {
+    "@farmfe/core": "*"
+  }
+}
+
+
+
+

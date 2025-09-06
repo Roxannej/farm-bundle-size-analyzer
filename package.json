@@ -1,0 +1,34 @@
+{
+  "name": "farm-bundle-size-analyzer",
+  "version": "0.1.0",
+  "description": "A Farm.js plugin to analyze bundle sizes in terminal",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "darwin-arm64/",
+    "darwin-x64/",
+    "linux-x64-gnu/",
+    "win32-x64-msvc/"
+  ],
+  "scripts": {
+    "postinstall": "node postinstall.js"
+  },
+  "keywords": [
+    "farm",
+    "bundle",
+    "analyzer",
+    "size"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "peerDependencies": {
+    "@farmfe/core": "*"
+  },
+  "napi": {
+    "name": "farm-bundle-size-analyzer",
+    "triples": {
+      "defaults": true,
+      "additional": []
+    }
+  }
+}
