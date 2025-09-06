@@ -1,0 +1,11 @@
+/Applications/current/farm-bundle-size-analyzer/target/debug/deps/liburl-b134251bc0aec412.rmeta: /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.5/src/lib.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.5/src/host.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.5/src/origin.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.5/src/parser.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.5/src/path_segments.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.5/src/slicing.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.5/src/quirks.rs
+
+/Applications/current/farm-bundle-size-analyzer/target/debug/deps/url-b134251bc0aec412.d: /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.5/src/lib.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.5/src/host.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.5/src/origin.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.5/src/parser.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.5/src/path_segments.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.5/src/slicing.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.5/src/quirks.rs
+
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.5/src/lib.rs:
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.5/src/host.rs:
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.5/src/origin.rs:
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.5/src/parser.rs:
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.5/src/path_segments.rs:
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.5/src/slicing.rs:
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/url-2.5.5/src/quirks.rs:

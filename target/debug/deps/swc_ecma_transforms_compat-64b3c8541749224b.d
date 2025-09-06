@@ -1,0 +1,9 @@
+/Applications/current/farm-bundle-size-analyzer/target/debug/deps/swc_ecma_transforms_compat-64b3c8541749224b.d: /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_transforms_compat-0.166.1/src/lib.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_transforms_compat-0.166.1/src/class_fields_use_set.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_transforms_compat-0.166.1/src/reserved_words.rs
+
+/Applications/current/farm-bundle-size-analyzer/target/debug/deps/libswc_ecma_transforms_compat-64b3c8541749224b.rlib: /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_transforms_compat-0.166.1/src/lib.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_transforms_compat-0.166.1/src/class_fields_use_set.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_transforms_compat-0.166.1/src/reserved_words.rs
+
+/Applications/current/farm-bundle-size-analyzer/target/debug/deps/libswc_ecma_transforms_compat-64b3c8541749224b.rmeta: /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_transforms_compat-0.166.1/src/lib.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_transforms_compat-0.166.1/src/class_fields_use_set.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_transforms_compat-0.166.1/src/reserved_words.rs
+
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_transforms_compat-0.166.1/src/lib.rs:
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_transforms_compat-0.166.1/src/class_fields_use_set.rs:
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_transforms_compat-0.166.1/src/reserved_words.rs:

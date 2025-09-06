@@ -1,0 +1,10 @@
+/Applications/current/farm-bundle-size-analyzer/target/release/deps/swc_ecma_loader-fe267e6243b2d4a7.d: /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_loader-0.46.1/src/lib.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_loader-0.46.1/src/resolve.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_loader-0.46.1/src/resolvers/mod.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_loader-0.46.1/src/resolvers/node.rs
+
+/Applications/current/farm-bundle-size-analyzer/target/release/deps/libswc_ecma_loader-fe267e6243b2d4a7.rlib: /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_loader-0.46.1/src/lib.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_loader-0.46.1/src/resolve.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_loader-0.46.1/src/resolvers/mod.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_loader-0.46.1/src/resolvers/node.rs
+
+/Applications/current/farm-bundle-size-analyzer/target/release/deps/libswc_ecma_loader-fe267e6243b2d4a7.rmeta: /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_loader-0.46.1/src/lib.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_loader-0.46.1/src/resolve.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_loader-0.46.1/src/resolvers/mod.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_loader-0.46.1/src/resolvers/node.rs
+
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_loader-0.46.1/src/lib.rs:
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_loader-0.46.1/src/resolve.rs:
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_loader-0.46.1/src/resolvers/mod.rs:
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_ecma_loader-0.46.1/src/resolvers/node.rs:

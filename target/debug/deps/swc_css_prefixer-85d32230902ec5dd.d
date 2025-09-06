@@ -1,0 +1,8 @@
+/Applications/current/farm-bundle-size-analyzer/target/debug/deps/libswc_css_prefixer-85d32230902ec5dd.rmeta: /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_css_prefixer-0.155.0/src/lib.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_css_prefixer-0.155.0/src/options.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_css_prefixer-0.155.0/src/prefixer.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_css_prefixer-0.155.0/src/../data/prefixes_and_browsers.json
+
+/Applications/current/farm-bundle-size-analyzer/target/debug/deps/swc_css_prefixer-85d32230902ec5dd.d: /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_css_prefixer-0.155.0/src/lib.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_css_prefixer-0.155.0/src/options.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_css_prefixer-0.155.0/src/prefixer.rs /Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_css_prefixer-0.155.0/src/../data/prefixes_and_browsers.json
+
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_css_prefixer-0.155.0/src/lib.rs:
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_css_prefixer-0.155.0/src/options.rs:
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_css_prefixer-0.155.0/src/prefixer.rs:
+/Users/fengxiaojun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/swc_css_prefixer-0.155.0/src/../data/prefixes_and_browsers.json:
